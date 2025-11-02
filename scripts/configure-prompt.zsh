@@ -13,4 +13,4 @@ else
     prompt-default
 fi
 
-trace-add "$SHULKER_PROMPT_PREFIX$(format-cmd 'prompt') Prompt configured"
+# trace-add "$SHULKER_PROMPT_PREFIX$(format-cmd 'prompt') Prompt configured"
